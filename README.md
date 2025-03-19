@@ -17,6 +17,13 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## Certificates
 Here are some of the certifications I have achieved:
+- Data analytics with Python(Platinum) - Skillovilla.
+- SQL (Intermediate) - HackerRank 
+- SQL (Basic) - HackerRank 
+- Excel with AI- Office Master
+- Analyzing and Visualizing Data with Microsoft Power BI - Office Master
+- Application of Satellite for Inland Waterbodies - ISRO
+- Basics of Geocomputation and Geoweb Services - ISRO
 
 ## Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-bhattt)
